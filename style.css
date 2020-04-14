@@ -1,0 +1,50 @@
+body {background: url(https://wallpapertag.com/wallpaper/full/5/3/f/28355-old-paper-background-4500x3090-retina.jpg);
+    font-family: sans-sarif;
+    font-size: 17.5px;
+    text-align: center;
+  }
+  h1{
+    font-size: 80px;
+    text-shadow: 5px 5px #F0E68C;
+    margin: 0;
+    background: url(https://designartlovestory.files.wordpress.com/2011/04/davinci-note-book.jpg);
+  }
+  p {
+    font-size: 30px;
+  }
+  h3 {
+    font-size: 30px;
+  }
+  a {
+    color: #4682B4;
+  }
+  a:visited {
+    color: #4B0082;
+  }
+  a:hover{
+    font-size: 20px;
+  }
+  #main{
+    margin: auto;
+    }
+  img {
+    max-width: 100%;
+    display: block;
+    height: auto;
+    margin: 0 auto;
+  }
+  ul {
+    max-width: 750px;
+    margin: 0 auto 50px auto;
+    text-align: left;
+    line-height: 1.2;
+  }
+  li {
+    margin: 16px 0;
+  }
+  blockquote {
+    font-style: italic;
+    max-width: 1250px;
+    margin: 0 auto 50px auto;
+    text-align: center;
+  }
